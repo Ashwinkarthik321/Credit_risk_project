@@ -1,0 +1,15 @@
+Model Performance:
+AUC: 0.6435
+Best Threshold: 0.4550
+
+Top SHAP Features:
+2. borrower_feat_2 (|SHAP|=0.27178)
+13. macro_1 (|SHAP|=0.25880)
+20. num_past_defaults (|SHAP|=0.23886)
+5. borrower_feat_5 (|SHAP|=0.15672)
+19. credit_util (|SHAP|=0.10210)
+16. macro_4 (|SHAP|=0.06595)
+9. borrower_feat_9 (|SHAP|=0.06467)
+6. borrower_feat_6 (|SHAP|=0.05684)
+18. macro_6 (|SHAP|=0.05594)
+3. borrower_feat_3 (|SHAP|=0.05498)

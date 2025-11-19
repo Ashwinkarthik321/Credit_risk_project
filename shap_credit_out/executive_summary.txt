@@ -1,0 +1,7 @@
+Executive Summary
+
+This credit-risk model uses LightGBM and SHAP to provide interpretable default predictions.
+The model achieved a test AUC of 0.644. SHAP enables transparency by identifying
+which features contribute most strongly to default risk. The top drivers were:
+borrower_feat_2, macro_1, num_past_defaults. Dependence plots reveal nonlinear risk effects and interaction patterns.
+Local SHAP explanations show why specific loans were classified as high- or low-risk.

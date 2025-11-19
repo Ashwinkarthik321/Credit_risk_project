@@ -1,0 +1,297 @@
+[
+  {
+    "index": 475,
+    "prob": 0.7546004312415909,
+    "true": 0,
+    "positive": [
+      {
+        "feature": "num_past_defaults",
+        "shap": 0.5746031475212006,
+        "value": 2.0
+      },
+      {
+        "feature": "macro_1",
+        "shap": 0.3537669595909843,
+        "value": 0.9279021774162716
+      },
+      {
+        "feature": "borrower_feat_2",
+        "shap": 0.2662277425272328,
+        "value": 1.6599176518605934
+      },
+      {
+        "feature": "macro_4",
+        "shap": 0.13269221455914326,
+        "value": 0.5879928828039529
+      },
+      {
+        "feature": "macro_5",
+        "shap": 0.11278700442209988,
+        "value": 2.969563454899484
+      }
+    ],
+    "negative": [
+      {
+        "feature": "borrower_feat_3",
+        "shap": -0.04588875600811735,
+        "value": 0.8601958824034028
+      },
+      {
+        "feature": "credit_util",
+        "shap": -0.03563012874255358,
+        "value": 0.2426540316433442
+      },
+      {
+        "feature": "macro_2",
+        "shap": -0.01966579523864314,
+        "value": 1.2620706335535383
+      },
+      {
+        "feature": "borrower_feat_5",
+        "shap": -0.01679629614964128,
+        "value": 0.6754638640178133
+      },
+      {
+        "feature": "borrower_feat_11",
+        "shap": -0.007320991879644804,
+        "value": 0.1444168172827983
+      }
+    ]
+  },
+  {
+    "index": 160,
+    "prob": 0.7540425600663244,
+    "true": 1,
+    "positive": [
+      {
+        "feature": "num_past_defaults",
+        "shap": 0.5594444780517535,
+        "value": 1.0
+      },
+      {
+        "feature": "borrower_feat_1",
+        "shap": 0.502431725123473,
+        "value": -3.3868137614883
+      },
+      {
+        "feature": "macro_1",
+        "shap": 0.15555989113384974,
+        "value": 0.1439642670560595
+      },
+      {
+        "feature": "borrower_feat_2",
+        "shap": 0.0990808572634091,
+        "value": 0.5538307887136714
+      },
+      {
+        "feature": "borrower_feat_9",
+        "shap": 0.08416197349918321,
+        "value": -0.1697789945029315
+      }
+    ],
+    "negative": [
+      {
+        "feature": "borrower_feat_3",
+        "shap": -0.03996783713047842,
+        "value": 1.364015441463962
+      },
+      {
+        "feature": "borrower_feat_8",
+        "shap": -0.03803887828685697,
+        "value": -0.8979552417284762
+      },
+      {
+        "feature": "borrower_feat_7",
+        "shap": -0.014742863965502668,
+        "value": 0.9233638798072252
+      },
+      {
+        "feature": "macro_6",
+        "shap": -0.011783638331700095,
+        "value": 1.6857685134632965
+      },
+      {
+        "feature": "borrower_feat_5",
+        "shap": 0.006893560123087156,
+        "value": 0.2177408255537902
+      }
+    ]
+  },
+  {
+    "index": 12,
+    "prob": 0.19202728570348687,
+    "true": 0,
+    "positive": [
+      {
+        "feature": "borrower_feat_3",
+        "shap": 0.10654300845289559,
+        "value": -1.1225182005861312
+      },
+      {
+        "feature": "credit_util",
+        "shap": 0.09015679265388044,
+        "value": 0.3918329405803974
+      },
+      {
+        "feature": "borrower_feat_11",
+        "shap": 0.08566323968065938,
+        "value": 2.147643704301916
+      },
+      {
+        "feature": "macro_2",
+        "shap": 0.028011172736008234,
+        "value": -1.7176501085443387
+      },
+      {
+        "feature": "borrower_feat_12",
+        "shap": 0.02601960622442292,
+        "value": 0.3021207130529472
+      }
+    ],
+    "negative": [
+      {
+        "feature": "borrower_feat_2",
+        "shap": -0.34189845985539347,
+        "value": -0.7073146657217151
+      },
+      {
+        "feature": "macro_1",
+        "shap": -0.2768573009241396,
+        "value": -0.634302088151343
+      },
+      {
+        "feature": "macro_5",
+        "shap": -0.19032353975281116,
+        "value": -0.9881492338852534
+      },
+      {
+        "feature": "num_past_defaults",
+        "shap": -0.1347883008482951,
+        "value": 0.0
+      },
+      {
+        "feature": "borrower_feat_5",
+        "shap": -0.1044865300377092,
+        "value": 1.3804759571824283
+      }
+    ]
+  },
+  {
+    "index": 18,
+    "prob": 0.16861497375315554,
+    "true": 0,
+    "positive": [
+      {
+        "feature": "borrower_feat_5",
+        "shap": 0.08649527238556033,
+        "value": 0.4881057225191833
+      },
+      {
+        "feature": "credit_util",
+        "shap": 0.08404149950144672,
+        "value": 0.4249367063667413
+      },
+      {
+        "feature": "borrower_feat_3",
+        "shap": 0.05548144257681122,
+        "value": 0.5922553876987398
+      },
+      {
+        "feature": "macro_3",
+        "shap": 0.036681062752300084,
+        "value": -0.1863364608448113
+      },
+      {
+        "feature": "borrower_feat_4",
+        "shap": 0.006435494919817524,
+        "value": -0.9928703665748838
+      }
+    ],
+    "negative": [
+      {
+        "feature": "borrower_feat_2",
+        "shap": -0.37179217281144494,
+        "value": 0.0756513587742628
+      },
+      {
+        "feature": "macro_1",
+        "shap": -0.3422875075372584,
+        "value": -1.380289837259431
+      },
+      {
+        "feature": "macro_5",
+        "shap": -0.15559842981434988,
+        "value": -1.1378785604543262
+      },
+      {
+        "feature": "borrower_feat_6",
+        "shap": -0.10688159479837672,
+        "value": 1.8338370249568008
+      },
+      {
+        "feature": "num_past_defaults",
+        "shap": -0.09053232142019096,
+        "value": 0.0
+      }
+    ]
+  },
+  {
+    "index": 21,
+    "prob": 0.15396020274715722,
+    "true": 0,
+    "positive": [
+      {
+        "feature": "borrower_feat_7",
+        "shap": 0.09448681819650875,
+        "value": 0.4490572300788271
+      },
+      {
+        "feature": "borrower_feat_4",
+        "shap": 0.032478136262045036,
+        "value": -0.364324381020604
+      },
+      {
+        "feature": "borrower_feat_6",
+        "shap": 0.031466339805622516,
+        "value": 0.3132692784810299
+      },
+      {
+        "feature": "borrower_feat_11",
+        "shap": 0.030665681757291084,
+        "value": 0.8584079171465728
+      },
+      {
+        "feature": "borrower_feat_2",
+        "shap": 0.024192032991169288,
+        "value": 0.8253888135526386
+      }
+    ],
+    "negative": [
+      {
+        "feature": "macro_1",
+        "shap": -0.3100819958584028,
+        "value": -0.963548842300694
+      },
+      {
+        "feature": "credit_util",
+        "shap": -0.21720730215454945,
+        "value": 0.1340927145661879
+      },
+      {
+        "feature": "num_past_defaults",
+        "shap": -0.20169753263603585,
+        "value": 0.0
+      },
+      {
+        "feature": "borrower_feat_5",
+        "shap": -0.1976815616303124,
+        "value": 1.1305715078597889
+      },
+      {
+        "feature": "macro_4",
+        "shap": -0.14704867624373272,
+        "value": -0.25725383610586
+      }
+    ]
+  }
+]
